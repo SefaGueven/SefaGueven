@@ -2,7 +2,7 @@
 <h1 align="center" > Hi there 👋 I´m Sefa </h1>
 
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFncDZmdHZkZ3o4aGx4bm41OXZteTg3dmZzeHViazBzdnFyaGtoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKvHJSPgCj4BjF1F5e/giphy.gif"/>
+  <img height="200" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFncDZmdHZkZ3o4aGx4bm41OXZteTg3dmZzeHViazBzdnFyaGtoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LKvHJSPgCj4BjF1F5e/giphy.gif](https://capsule-render.vercel.app/api?type=blur&height=256&color=timeGradient&text=Hi%20there%20👋%20I´m%20Sefa&reversal=false&fontAlign=50&animation=blink&textBg=false&descAlign=49)"/>
 </div>
 
 ###
